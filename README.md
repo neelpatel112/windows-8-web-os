@@ -1,8 +1,6 @@
-# Windows Web 8
+# Windows 8 web os
 
 Simply put: it's Windows 8 in a browser.
-
-Check it out yourself - [Windows Web 8 Live](https://kishlaya.github.io/Windows-Web-8/) link.
 
 
 ### What it really is?
